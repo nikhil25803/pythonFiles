@@ -1,0 +1,3 @@
+Hello world
+This is Python !
+This is the entered line

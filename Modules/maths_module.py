@@ -1,7 +1,9 @@
-from math import *
-import math
+import imp
+from math import ceil, floor
+# this will import ceil and floor only
 
-from django.template import base
+from math import *
+
 
 # Using * (asterix) import all the functions from
 # the module (math in this case)
@@ -34,7 +36,7 @@ print(math.lcm(10,20))
 print(math.exp(1))
 # Output-> e^1
 
-# print(math.log(x, base))
+print(math.log(x, base))
 # Output-> calculated as log(x)/log(base)
 
 print(math.log2(8))
