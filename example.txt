@@ -1,7 +1,2 @@
 Hello
-My name is Nikil Raj
-My favourite animal is ##### 
-My favourite fruit is #####
-Yersterday I saw a  ##### 
-My favourite Place is #####
-and last day I saw a #####
+My name is Python
