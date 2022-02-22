@@ -7,18 +7,20 @@ class Vehicle: # Parent Class
     def show_vehicle_details(self):
         print("I am a Vehicle")
         print("Milage of the vehicle is: ", self.milage)
-        print("Cost og the vehicle is: ", self.cost)
+        print("Cost of the vehicle is: ", self.cost)
+v1 = Vehicle(300,500)
 
-v1 = Vehicle(50,5000)
-# v1.show_vehicle_details()
+class Car(Vehicle):
 
-# Child Class
+    def __init__(self,milage,cost,tyres,hp):
+        super().__init__(milage, cost)
+        self.tyres = tyres
+        self.hp = hp
 
-class Car(Vehicle): 
-    # Inheriting the Vehicle Class
     def show_car_details(self):
-        print("I am a Car")
+        print("I am Car")
+        print("Number of tyres are: ", self.tyres)
+        print("Value of horsepower is: ",self.hp)
 
-c1 = Car(200,2000)
-c1.show_vehicle_details() 
+c1 = Car(20,12000,4,1000)
 c1.show_car_details()
