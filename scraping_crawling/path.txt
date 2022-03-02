@@ -1,0 +1,9 @@
+Web Scraping
+Beautifulsoup
+Scrapy
+parsers
+Parsing HTML
+Extracting Links
+
+Website should have a API or we need to parse 
+the HTML file for web Scraping
