@@ -1,0 +1,34 @@
+
+user_list = ["arpit456jain", "Daksh777", "khushi-purwar", "prathimacode-hub", "swapnilsparsh", "Dezenix", "HarshCasper","Niketkumardheeryan", "trufflesuite", "Umesh-01","hoppscotch","timlrx","Lakhankumawat","RetroMusicPlayer","vigneshshettyin","DulLabs","akshitagupta15june","Algo-Phantoms","TesseractCoding", "vinitshahdeo", "vigneshshettyin", "avinashkranjan", "avinashkranjan", "flow2ml" ,"ashishsahu1" ,"girlscript" ,"praveenscience", "mindsdb", "ProjectSakura", "Spectrum-CETB", "HITK-TECH-Community", "CircuitVerse", "mishraaditya595","PyAr", "boostorg", "sympy", "vinta", "TheAlgorithms", "kamranahmedse", "30-seconds"]
+
+
+Arpit Jain,arpit456jain,55352601,63,282,16
+
+Daksh P. Jain,Daksh777,43648146,28,134,4
+
+Khushi Purwar,khushi-purwar,52875298,41,24,3
+
+Prathima Kadari,prathimacode-hub,74645302,300,476,1241
+
+Swapnil Srivastava,swapnilsparsh,69387608,25,98,23
+
+Dezenix,Dezenix,92113108,16,0,0
+
+Harsh Mishra,HarshCasper,47351025,302,1521,49
+
+Niket  kumar Dheeryan,Niketkumardheeryan,52290648,84,23,75
+
+Truffle Suite,trufflesuite,22205159,121,0,0
+
+Umesh Singh,Umesh-01,83420185,95,9,0
+
+Hoppscotch,hoppscotch,56705483,8,0,0
+
+Timothy,timlrx,28362229,19,340,0
+
+The Algorithms,TheAlgorithms,20487725,34,0,0
+
+Kamran Ahmed,kamranahmedse,4921183,81,21238,142
+
+30 seconds of code,30-seconds,43479428,17,0,0
+
