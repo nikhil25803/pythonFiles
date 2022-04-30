@@ -1,6 +1,6 @@
 # from textwrap import indent4
 import re
-import limit
+# import limit
 from bs4 import BeautifulSoup
 
 with open("index2.html","r") as f:
