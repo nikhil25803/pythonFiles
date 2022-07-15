@@ -1,0 +1,23 @@
+{
+    "C++": 474352,
+    "Python": 239650,
+    "Java": 239179,
+    "C": 210716,
+    "C#": 125363,
+    "JavaScript": 91217,
+    "Ruby": 37909,
+    "Go": 34039,
+    "PHP": 33439,
+    "TypeScript": 33141,
+    "Swift": 16690,
+    "Jupyter Notebook": 13334,
+    "Rust": 9569,
+    "Shell": 7923,
+    "Scala": 6275,
+    "Haskell": 5456,
+    "Kotlin": 3466,
+    "HTML": 2270,
+    "Smalltalk": 1284,
+    "Clojure": 348,
+    "Makefile": 261
+}
